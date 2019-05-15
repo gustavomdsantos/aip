@@ -5,5 +5,20 @@
 
 #banner .fork { margin-top: 8px; }
 @media print, screen and (max-width: 480px) {
-	#banner { display: block; }	
+	body { overflow-x: hidden; }
+	#banner .downloads span { display: none; }
+	#banner {
+		display: block;
+		position: relative;
+		min-height: 0px;
+		top: 0px;
+		padding: 5px 0px;
+	}
+	#banner .fork {
+		display: inline-block;
+		position: relative;
+		float: left;
+		left: 20px;
+		margin-left: 0px;
+	}
 }
