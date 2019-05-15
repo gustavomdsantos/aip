@@ -4,3 +4,4 @@
 @import "{{ site.theme }}";
 
 #banner .fork { margin-top: 8px; }
+@media print, screen and (max-width: 480px) #banner { display: block; }
