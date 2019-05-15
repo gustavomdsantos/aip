@@ -1,6 +1,3 @@
-> _"Porque você não nasceu para ser pobre."_
-> (Gustavo Moraes)
-
 Sabia que você pode ter sido educado(a) pela sua família, escola, e pela sociedade para **fracassar** financeiramente?
 
 Isso acontece com pelo menos [65%](https://exame.abril.com.br/seu-dinheiro/brasil-e-o-74o-em-ranking-global-de-educacao-financeira) da população brasileira. Temos [mais da metade do Brasil](http://agenciabrasil.ebc.com.br/economia/noticia/2019-03/endividamento-e-inadimplencia-das-familias-crescem-em-janeiro) composto por pessoas que já estão endividados desde jovens.
@@ -30,9 +27,9 @@ Nela será falado sobre:
 
 ### Participe!
 
-No *Sábado, 18 de maio, às 10:00* abriremos um link no [Jitsi Meet](https://meet.jit.si) e começaremos a palestra por lá.
+No **Sábado, 18 de maio, às 10:00** abriremos um link no [Jitsi Meet](https://meet.jit.si) e começaremos a palestra por lá.
 
-[<center><big><big>O link será publicado aqui, aguarde!</big></big></center>](#)
+[<center><big><big>O link será publicado aqui, aguarde!</big></big></center>](#participe)
 
 Se você abrir este link num computador, você já entrará ao vivo na palestra pelo navegador do seu PC! Mas se você abrir num celular ou tablet, provavelmente aparecerá esta mensagem:
 
@@ -44,6 +41,7 @@ Se aparecer, clique no botão "Download the app" e baixe o aplicativo do Jitsi M
 
 Não se atrase e não faça empréstimos, consórcios, financiamentos ou qualquer coisa semelhante antes de participar desta palestra!
 
-Aguardo você neste *Sábado, 18 de maio, às 10:00*! Você é meu(minha) convidado(a) de honra!
+Aguardo você neste **Sábado, 18 de maio, às 10:00**! Você é meu(minha) convidado(a) de honra!
 
+<img src="assets/images/gustavo_moraes_profile_photo.png" alt="gustavo_moraes_profile_photo" width="125" style="text-align: right;">
 <p style="text-align: right;">Gustavo Moraes.</p>
