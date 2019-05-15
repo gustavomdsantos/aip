@@ -3,6 +3,7 @@
 
 @import "{{ site.theme }}";
 
+header h1 { font: 40px/48px 'Montserrat Bold', "Helvetica Neue", Helvetica, Arial, sans-serif; }
 #banner .fork { margin-top: 8px; }
 @media print, screen and (max-width: 480px) {
 	body { overflow-x: hidden; }
