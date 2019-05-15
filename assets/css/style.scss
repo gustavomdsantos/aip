@@ -3,10 +3,18 @@
 
 @import "{{ site.theme }}";
 
-header h1 { font: 40px/48px 'Montserrat Bold', "Helvetica Neue", Helvetica, Arial, sans-serif; }
+header h1 {
+	font-family: 'Montserrat', "Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-transform: uppercase;
+	span {
+		font-weight: bold;
+		color: #ffc107;
+	}
+}
 #banner .fork { margin-top: 8px; }
 @media print, screen and (max-width: 480px) {
 	body { overflow-x: hidden; }
+	header h1 { font-size: 18px !important; }
 	#banner .downloads span { display: none; }
 	#banner {
 		display: block;
@@ -21,5 +29,22 @@ header h1 { font: 40px/48px 'Montserrat Bold', "Helvetica Neue", Helvetica, Aria
 		float: left;
 		left: 20px;
 		margin-left: 0px;
+	}
+}
+@media print, screen and (min-width: 481px) and (max-width: 720px) {
+	header h1 {
+		font-size: 24px;
+		position: relative;
+		left: -20px;
+		top: -5px;
+	}
+}
+@media print, screen and (min-width: 721px) and (max-width: 1060px){
+	header {
+		h1 { font-size: 32px; }
+		h1, p {
+			position: relative;
+			left: -20px;
+		}
 	}
 }
