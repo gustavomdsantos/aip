@@ -43,5 +43,7 @@ Não se atrase e não faça empréstimos, consórcios, financiamentos ou qualque
 
 Aguardo você neste **Sábado, 18 de maio, às 10:00**! Você é meu(minha) convidado(a) de honra!
 
-<img src="assets/images/gustavo_moraes_profile_photo.png" alt="gustavo_moraes_profile_photo" width="125" style="text-align: right;">
-<p style="text-align: right;">Gustavo Moraes.</p>
+<p style="text-align: right;">
+	<img src="assets/images/gustavo_moraes_profile_photo.png" alt="gustavo_moraes_profile_photo" width="96">
+	<br>
+	<b>Gustavo Moraes.<b>
