@@ -1,3 +1,5 @@
+## Início
+
 Sabia que você pode ter sido educado(a) pela sua família, escola, e pela sociedade para **fracassar** financeiramente?
 
 Isso acontece com pelo menos [65%](https://exame.abril.com.br/seu-dinheiro/brasil-e-o-74o-em-ranking-global-de-educacao-financeira) da população brasileira. Temos [mais da metade do Brasil](http://agenciabrasil.ebc.com.br/economia/noticia/2019-03/endividamento-e-inadimplencia-das-familias-crescem-em-janeiro) composto por pessoas que já estão endividados desde jovens.
@@ -25,7 +27,7 @@ Nela será falado sobre:
 4. Investimentos de renda variável
 5. Como começar a investir
 
-### Participe!
+## Participe!
 
 No **Sábado, 18 de maio, às 10:00** abriremos um link no [Jitsi Meet](https://meet.jit.si) e começaremos a palestra por lá.
 
