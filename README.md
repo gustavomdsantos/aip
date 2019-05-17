@@ -29,15 +29,11 @@ Nela será falado sobre:
 
 ## Participe!
 
-No **Sábado, 18 de maio, às 10:00** abriremos um link no [Jitsi Meet](https://meet.jit.si) e começaremos a palestra por lá.
+No **Sábado, 18 de maio, às 10:00** abriremos um link ao vivo no [YouTube](https://www.youtube.com) e começaremos a palestra por lá.
 
 [<center><big><big>O link será publicado aqui, aguarde!</big></big></center>](#participe)
 
-Se você abrir este link num computador, você já entrará ao vivo na palestra pelo navegador do seu PC! Mas se você abrir num celular ou tablet, provavelmente aparecerá esta mensagem:
-
-![jitsi-meet-in-smartphone](assets/images/jitsi-meet-in-smartphone.png)
-
-Se aparecer, clique no botão "Download the app" e baixe o aplicativo do Jitsi Meet na Store do seu aparelho. Depois disso é só abrir o link para a palestra novamente e o aplicativo será aberto diretamente na palestra ao vivo! 😃
+Se você abrir este link o YouTube será aberto diretamente na palestra ao vivo! 😃
 
 ------------
 
