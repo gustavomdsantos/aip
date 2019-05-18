@@ -39,7 +39,7 @@ No **Sábado, 18 de maio, às 10:00** entramos ao vivo no [YouTube](https://www.
 
 Assista até o fim e não faça empréstimos, consórcios, financiamentos ou qualquer coisa semelhante antes de terminar de assistir esta palestra!
 
-* Apresentação de slides usada na palestra: ![http://bit.ly/slides-aip](http://bit.ly/slides-aip)
+* Apresentação de slides usada na palestra: [http://bit.ly/slides-aip](http://bit.ly/slides-aip)
 * Formulário de interesse em consultoria financeira pessoal comigo: [https://forms.gle/HgbDHnTJ1cqJEQAeA](https://forms.gle/HgbDHnTJ1cqJEQAeA)
 
 <p style="text-align: right;">
