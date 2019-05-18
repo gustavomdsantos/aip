@@ -31,12 +31,16 @@ Nela foi falado sobre:
 
 No **Sábado, 18 de maio, às 10:00** entramos ao vivo no [YouTube](https://www.youtube.com) e a palestra está disponível aqui:
 
+------------------
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PAlzCjHngWA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+------------------
 
 Assista até o fim e não faça empréstimos, consórcios, financiamentos ou qualquer coisa semelhante antes de terminar de assistir esta palestra!
 
-* Apresentação de slides usada na palestra: http://bit.ly/slides-aip
-* Formulário de interesse em consultoria financeira pessoal comigo: https://forms.gle/HgbDHnTJ1cqJEQAeA
+* Apresentação de slides usada na palestra: ![http://bit.ly/slides-aip](http://bit.ly/slides-aip)
+* Formulário de interesse em consultoria financeira pessoal comigo: [https://forms.gle/HgbDHnTJ1cqJEQAeA](https://forms.gle/HgbDHnTJ1cqJEQAeA)
 
 <p style="text-align: right;">
 	<img src="assets/images/gustavo_moraes_profile_photo.png" alt="gustavo_moraes_profile_photo" width="96">
