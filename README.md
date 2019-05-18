@@ -29,9 +29,9 @@ Nela será falado sobre:
 
 ## Participe!
 
-No **Sábado, 18 de maio, às 10:00** abriremos um link ao vivo no [YouTube](https://www.youtube.com) e começaremos a palestra por lá.
+No **Sábado, 18 de maio, às 10:00** entraremos ao vivo no [YouTube](https://www.youtube.com) e começaremos a palestra através deste link:
 
-[<center><big><big>O link será publicado aqui, aguarde!</big></big></center>](#participe)
+[<center><big><big>https://youtu.be/PAlzCjHngWA</big></big></center>](https://youtu.be/PAlzCjHngWA)
 
 Se você abrir este link o YouTube será aberto diretamente na palestra ao vivo! 😃
 
