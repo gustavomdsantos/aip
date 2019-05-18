@@ -45,3 +45,10 @@ Aguardo você neste **Sábado, 18 de maio, às 10:00**! Você é meu(minha) conv
 	<img src="assets/images/gustavo_moraes_profile_photo.png" alt="gustavo_moraes_profile_photo" width="96">
 	<br>
 	<b>Gustavo Moraes.<b>
+
+-------------
+
+## Conteúdo pós-palestra
+
+* Apresentação de slides usada na palestra: http://bit.ly/slides-aip
+* Formulário de interesse em consultoria financeira pessoal com Gustavo Moraes: https://forms.gle/HgbDHnTJ1cqJEQAeA
